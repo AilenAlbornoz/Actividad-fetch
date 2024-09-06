@@ -1,0 +1,12 @@
+*{
+    background-color:rgb(226, 169, 150);
+    text-align: center;
+}
+
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1, h2{
+    color:crimson;
+}
